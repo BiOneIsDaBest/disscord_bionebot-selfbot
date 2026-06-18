@@ -104,3 +104,7 @@ Cảm ơn anhem đã nhắn tin! 🙏
 
 Bản quyền thuộc **BiOneIsDaBest**  
 📌 Nếu mượn sử dụng hoặc chỉnh sửa, vui lòng **ghi rõ nguồn** hoặc liên hệ: [Discord: BiOneIsDaBest](https://discord.com/users/1146990393167200276)
+
+## Maintenance
+
+This repository is maintained as a personal Discord bot learning project.
